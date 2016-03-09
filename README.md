@@ -20,10 +20,10 @@ It has very complex structure. It is hard to understand the flow of data in the 
 It is very compact so changing the code or updating the application was easier to check. The method of scaffolding is very easy way to jump start an application for a single database model.
 
 ##Other Components
-I have loaded several gem files such as
-gem gmap4rails - It is used for google maps api
-gem geocoder - It is used for google maps too but for conversion of cities to points and vice versa  
-gem rails_12factor - It is used to use all the features on heroku  
+I have loaded several gem files such as  
+gem gmap4rails - It is used for google maps api  
+gem geocoder - It is used for google maps too but for conversion of cities to points and vice versa    
+gem rails_12factor - It is used to use all the features on heroku    
 
 
 ##Steps on Ubuntu to deploy app
