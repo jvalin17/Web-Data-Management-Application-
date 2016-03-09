@@ -1,7 +1,8 @@
 # jjd5870_cse5335_project1
 It is a web application that tracks job applications done by user. Generally new students apply at large number of companies when they graduate and have to maintain a list of companies where they have applied. So this helps to track all the job applications done by user state wise. One can easily add or delete a job application. 
 
-
+ A [link](https://jjd5870-cse-5335.herokuapp.com/)
+ 
 ##Server Framework
 I have used Ruby on Rails for server side programming. I am new to web development so all frameworks were equally unknown to me. I am a python programmer and I found similarity in coding of Ruby and Python so I chose it. It is also one of the fatsest framework. I have used PostgreSQL for storing data on server side. I found PostgreSQL similar to MySQL and a bit easier too.
 
