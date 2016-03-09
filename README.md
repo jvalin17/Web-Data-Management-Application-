@@ -14,7 +14,7 @@ I have used javascript and AJAX to maintain client-side. The reason to use it wa
 ##Aspects
 
 ###Hard Aspect
-It has very complex structure. It is hard to understand the flow of data in the framework. Once we are clear with the flow of parameters in the framework ], it becomes easy to make an app.
+It has very complex structure. It is hard to understand the flow of data in the framework. Once we are clear with the flow of parameters in the framework, it becomes easy to make an app.
 
 ###Easy Aspect
 It is very compact so changing the code or updating the application was easier to check. The method of scaffolding is very easy way to jump start an application for a single database model.
