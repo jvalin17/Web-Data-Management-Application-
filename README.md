@@ -1,4 +1,4 @@
-# jjd5870_cse5335_project1
+# Aptrack 
 It is a web application that tracks job applications done by user. Generally new students apply at large number of companies when they graduate and have to maintain a list of companies where they have applied. So this helps to track all the job applications done by user state wise. One can easily add or delete a job application. 
 
  A [link](https://jjd5870-cse-5335.herokuapp.com/)
